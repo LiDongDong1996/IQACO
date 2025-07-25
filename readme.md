@@ -117,5 +117,3 @@ This project is licensed under the MIT License. See the [LICENSE](https://grok.c
 ## Contact
 
 For issues or questions, please open an issue on this repository or contact [[lddya1996@nuaa.edu.cn](mailto:lddya1996@nuaa.edu.cn)].
-
-# Improved Q-Evaluation Ant Colony Optimization
