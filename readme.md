@@ -1,6 +1,6 @@
 # IQACO: Improved Q-Evaluation Ant Colony Optimization
 
-This repository contains the source code for the paper "Research on Mobile Robot Path Planning Based on Improved Q-Evaluation Ant Colony Optimization Algorithm" by Dongdong Li and Lei Wang, accepted at *Engineering Applications of Artificial Intelligence* (2025). The code implements the Improved Quantum Ant Colony Optimization (IQACO) algorithm for path planning on grid-based maps, facilitating reproducibility and future research.
+This repository contains the source code for the paper "Research on Mobile Robot Path Planning Based on Improved Q-Evaluation Ant Colony Optimization Algorithm" by Dongdong Li and Lei Wang, accepted at *Engineering Applications of Artificial Intelligence* (2025). The code implements the Improved Q-Evaluation Ant Colony Optimization (IQACO) algorithm for path planning on grid-based maps, facilitating reproducibility and future research.
 
 ## Project Structure
 
