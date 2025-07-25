@@ -1,0 +1,8 @@
+name: iqaco
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11.3
+  - numpy>=1.24.0
+  - matplotlib>=3.7.0
