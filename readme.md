@@ -27,7 +27,7 @@ This repository contains the source code for the paper "Research on Mobile Robot
 2. **Clone the Repository** :
 
 ```bash
-   git clone https://github.com/***/IQACO.git
+   git clone https://github.com/LiDongDong1996/IQACO.git
    cd IQACO
 ```
 
